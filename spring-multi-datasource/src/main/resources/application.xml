@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/context"
+       xmlns:jpa="http://www.springframework.org/schema/data/jpa"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/data/jpa http://www.springframework.org/schema/data/jpa/spring-jpa.xsd">
+
+    <mvc:annotation-config/>
+    <mvc:component-scan base-package="com.tang"/>
+
+    <context:component-scan base-package="com.tang"/>
+
+    <!--数据源一-->
+    <bean id="firstDataSource" class="com.alibaba.druid.pool.DruidDataSource">
+        <property name="url" value="jdbc:h2:mem:first"/>
+        <property name="driverClassName"  value="org.h2.Driver"/>
+        <property name="username" value="sa"/>
+        <property name="password" value="sa"/>
+    </bean>
+
+    <!--数据源二-->
+    <bean id="secondDataSource" class="com.alibaba.druid.pool.DruidDataSource">
+        <property name="url" value="jdbc:h2:mem:second"/>
+        <property name="driverClassName" value="org.h2.Driver"/>
+        <property name="username" value="sa"/>
+        <property name="password" value="sa"/>
+    </bean>
+
+    <!--动态数据源路由-->
+    <bean id="dynamicRoutingDateSource" class="com.tang.config.DynamicRoutingDateSource">
+        <property name="targetDataSources">
+            <map>
+                <entry key="first" value-ref="firstDataSource"/>
+                <entry key="second" value-ref="secondDataSource"/>
+            </map>
+        </property>
+        <property name="defaultTargetDataSource" ref="firstDataSource"/>
+    </bean>
+
+    <!--事务管理器-->
+    <!--<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dynamicRoutingDateSource"/>
+    </bean>-->
+    <!--jpa 事务管理器-->
+    <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
+        <property name="entityManagerFactory" ref="entityManagerFactory"/>
+    </bean>
+
+    <bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
+        <property name="dataSource" ref="dynamicRoutingDateSource"/>
+        <!--扫描jpa entity包-->
+        <property name="packagesToScan" value="com.tang.pojo"></property>
+        <property name="jpaVendorAdapter">
+            <bean class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter"></bean>
+        </property>
+        <property name="jpaProperties">
+            <props>
+                <prop key="hibernate.ejb.naming_strategy">org.hibernate.cfg.ImprovedNamingStrategy</prop>
+                <prop key="hibernate.hbm2ddl.auto">update</prop>
+                <prop key="hibernate.show_sql">true</prop>
+                <prop key="hibernate.format_sql">true</prop>
+                <prop key="hibernate.dialect">org.hibernate.dialect.H2Dialect</prop>
+<!--                <prop key="hibernate.cache.use_second_level_cache">true</prop>-->
+<!--                <prop key="hibernate.cache.region.factory_class">org.hibernate.cache.ehcache.EhCacheRegionFactory</prop>-->
+<!--                <prop key="hibernate.cache.use_query_cache">true</prop>-->
+            </props>
+        </property>
+        <!-- 配置使用二级缓存的模式：只允许带有 @Cacheable 的类使用二级缓存 -->
+        <!--<property name="sharedCacheMode" value="ENABLE_SELECTIVE"></property>-->
+    </bean>
+
+    <!--扫描dao包-->
+    <jpa:repositories base-package="com.tang.dao" entity-manager-factory-ref="entityManagerFactory"/>
+</beans>

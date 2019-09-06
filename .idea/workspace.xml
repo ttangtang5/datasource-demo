@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adf6ae96-5c3f-42b6-aabb-5c29a7d0df6b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/single-datasource/target/" />
+    <ignored path="$PROJECT_DIR$/pure-single-datasource/target/" />
+    <ignored path="$PROJECT_DIR$/test/target/" />
+    <ignored path="$PROJECT_DIR$/multi-datasource/target/" />
+    <ignored path="$PROJECT_DIR$/spring-multi-datasource/target/" />
+    <ignored path="$PROJECT_DIR$/datasource-demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/InitTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasource-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97" />
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasource-demo/src/main/java/com/tang/datasourcedemo/config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/datasource-demo/src/main/java/com/tang/datasourcedemo/DatasourceDemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ServletContainerInitializer</find>
+      <find>schema</find>
+      <find>print save</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/single-datasource/src/main/java/com/tang/singledatasource/InitTask.java" />
+        <option value="$PROJECT_DIR$/single-datasource/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tang/config/CustomDataSource.java" />
+        <option value="$PROJECT_DIR$/pure-single-datasource/src/main/java/com/tang/config/InitTask.java" />
+        <option value="$PROJECT_DIR$/pure-single-datasource/src/main/resources/application.xml" />
+        <option value="$PROJECT_DIR$/pure-single-datasource/src/main/java/com/tang/config/CustomDataSource.java" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/pure-single-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/DynamicRoutingDateSource.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/DataSourceType.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/UseDataSource.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/DSKey.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/DataSourceAspect.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/dao/UserRepository.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/Test.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/pojo/User.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/service/UserService.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DataSourceType.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DSKey.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/UseDataSource.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DynamicDataSourceRoute.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DynamicRoutingDataSource.java" />
+        <option value="$PROJECT_DIR$/datasource-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/datasource-demo/src/main/java/com/tang/datasourcedemo/DatasourceDemoApplication.java" />
+        <option value="$PROJECT_DIR$/datasource-demo/src/main/java/com/tang/datasourcedemo/config.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/FooDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/resources/schema.sql" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/pojo/User.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/dao/UseRepository.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/MultiDatasourceApplication.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/MasterDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/SlaveDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/spring-multi-datasource/src/main/resources/application.xml" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/BarDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/InitTask.java" />
+        <option value="$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/service/UserService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tang" type="462c0819:PsiDirectoryNode" />
+              <item name="datasourcedemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-jdbc-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-jdbc-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="H:/Node/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39079103" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-multi-datasource/src/main" />
+      <recent name="$PROJECT_DIR$/pure-single-datasource/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-datasource/src/main/resources" />
+      <recent name="$PROJECT_DIR$/test/src/main" />
+      <recent name="$PROJECT_DIR$/pure-single-datasource/src/main" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="spring-multi-datasource" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MultiDatasourceApplication">
+    <configuration name="CustomDataSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tang.config.CustomDataSource" />
+      <module name="pure-single-datasource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tang.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tang.Test" />
+      <module name="spring-multi-datasource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pure-single-datasource" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/pure-single-datasource" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-multi-datasource" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/spring-multi-datasource" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DatasourceDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="datasource-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tang.datasourcedemo.DatasourceDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiDatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="multi-datasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tang.multidatasource.MultiDatasourceApplication" />
+      <option name="VM_PARAMETERS" value="-Dlog4j.debug" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleDatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="single-datasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tang.singledatasource.SingleDatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CustomDataSource" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Maven.spring-multi-datasource" />
+      <item itemvalue="Maven.pure-single-datasource" />
+      <item itemvalue="Spring Boot.SingleDatasourceApplication" />
+      <item itemvalue="Spring Boot.MultiDatasourceApplication" />
+      <item itemvalue="Spring Boot.DatasourceDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CustomDataSource" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf6ae96-5c3f-42b6-aabb-5c29a7d0df6b" name="Default Changelist" comment="" />
+      <created>1562075233801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562075233801</updated>
+      <workItem from="1562075236902" duration="254000" />
+      <workItem from="1562075504880" duration="18098000" />
+      <workItem from="1562251368246" duration="1799000" />
+      <workItem from="1562396260291" duration="9926000" />
+      <workItem from="1562764719806" duration="6398000" />
+      <workItem from="1566726254181" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36555000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="973" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22527473" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291714" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.26106697" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501221" side_tool="true" weight="0.3166856" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.3291714" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3291714" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="4" weight="0.22222222" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.22710623" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="JSF" order="10" />
+      <window_info anchor="right" id="CDI" order="11" weight="0.32967034" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((DefaultListableBeanFactory)this.$$beanFactory).beanDefinitionNames" custom="org.springframework.beans.factory.support.DefaultListableBeanFactory,com.tang.datasourcedemo.config" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/DataSourceAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="61" column="27" lean-forward="true" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/DSKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DSKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/UseDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-multi-datasource/src/main/java/com/tang/config/DynamicRoutingDateSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DynamicRoutingDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-actuator-autoconfigure/2.1.6.RELEASE/spring-boot-actuator-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/jdbc/DataSourceHealthIndicatorAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="39" column="55" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-actuator-autoconfigure/2.1.6.RELEASE/spring-boot-actuator-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/endpoint/web/ServletEndpointManagementContextConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pure-single-datasource/src/main/resources/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-datasource/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasource-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="197" column="66" selection-start-line="197" selection-start-column="66" selection-end-line="197" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/resources/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/dao/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/EntityManagerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/MultiDatasourceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="uml://JAVA/org.springframework.lang.Nullable">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.lang.Nullable</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.annotation.Annotation</node>
+            <node x="" y="">java.lang.annotation.Target</node>
+            <node x="" y="">java.lang.annotation.Documented</node>
+            <node x="" y="">org.springframework.lang.Nullable</node>
+            <node x="" y="">java.lang.annotation.Retention</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="98.0" y="168.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/spring-orm/5.1.8.RELEASE/spring-orm-5.1.8.RELEASE.jar!/org/springframework/orm/jpa/EntityManagerFactoryInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1013">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/hibernate/hibernate-entitymanager/5.1.0.Final/hibernate-entitymanager-5.1.0.Final.jar!/org/hibernate/jpa/internal/EntityManagerFactoryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar!/javax/persistence/EntityManagerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/spring-orm/5.1.8.RELEASE/spring-orm-5.1.8.RELEASE.jar!/org/springframework/orm/jpa/LocalContainerEntityManagerFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DataSourceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/hibernate/hibernate-core/5.3.10.Final/hibernate-core-5.3.10.Final.jar!/org/hibernate/jpa/boot/spi/EntityManagerFactoryBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/MasterDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/spring-orm/5.0.6.RELEASE/spring-orm-5.0.6.RELEASE.jar!/org/springframework/orm/jpa/AbstractEntityManagerFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="103" column="16" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="29" />
+          <folding>
+            <element signature="e#2943#2944#0" expanded="true" />
+            <element signature="e#2980#2981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/hibernate/hibernate-core/5.3.10.Final/hibernate-core-5.3.10.Final.jar!/org/hibernate/dialect/H2Dialect.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/spring-orm/5.1.8.RELEASE/spring-orm-5.1.8.RELEASE.jar!/org/springframework/orm/jpa/AbstractEntityManagerFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="993">
+          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1452">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/SlaveDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceInitializationConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="52" column="83" selection-start-line="52" selection-start-column="83" selection-end-line="52" selection-end-column="83" />
+          <folding>
+            <element signature="class#PooledDataSourceAvailableCondition#0;class#DataSourceAutoConfiguration#0" />
+            <element signature="class#EmbeddedDatabaseCondition#0;class#DataSourceAutoConfiguration#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1643">
+          <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
+          <folding>
+            <element signature="e#10297#10298#0" expanded="true" />
+            <element signature="e#10324#10325#0" expanded="true" />
+            <element signature="e#11657#11658#0" expanded="true" />
+            <element signature="e#11687#11688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/FooDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="29" column="75" lean-forward="true" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven-repository/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/jdbc/DataSourceBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/BarDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-multi-datasource/src/main/resources/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/InitTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi-datasource/src/main/java/com/tang/multidatasource/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasource-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97" />
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasource-demo/src/main/java/com/tang/datasourcedemo/config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasource-demo/src/main/java/com/tang/datasourcedemo/DatasourceDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>pure-single-datasource:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39079103" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39079103" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39079103" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39079103" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pure-single-datasource</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39079103" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39079103" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
